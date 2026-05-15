@@ -1,5 +1,12 @@
-# Data
+## Data
 
-The data used in this project were collected as part of an 8-day daily diary study conducted at Brooklyn College (CUNY).
-Due to IRB restrictions, participant confidentiality, and consent procedures, the dataset is not publicly available.
-Researchers interested in accessing the data may contact the Principal Investigator, Dr. Cheryl L. Carmichael.
+The data used in this project were collected as part of an 8-day daily diary study conducted with undergraduate students at Brooklyn College (CUNY).
+
+Participants completed daily surveys assessing climate-related emotions, climate conversations, and pro-environmental behaviors.
+
+The dataset was originally collected using Qualtrics and exported in SPSS (.sav) format. Data were subsequently processed and analyzed in R.
+
+Due to IRB restrictions, participant confidentiality, and consent procedures, the dataset is not publicly available and cannot be shared in this repository.
+
+Researchers interested in accessing the data or learning more about the dataset may contact the Principal Investigator,  
+Dr. Cheryl L. Carmichael, regarding potential access.
