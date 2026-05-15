@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Talking Climate: Does Peer Anxiety Amplify or Alleviate Climate Change Worries?"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: Tupone
+    given-names: Emma Valentina
+date-released: 2026-05-14
+version: "1.0.0"
+repository-code: "https://github.com/emmatup0205/talking-climate-thesis-repository.git"
