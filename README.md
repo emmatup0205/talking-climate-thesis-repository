@@ -90,8 +90,7 @@ The full thesis can be found here:
 
 ## Citation
 
-This repository will be assigned a DOI via Zenodo.  
-Citation information will be updated upon DOI generation.
+Tupone, E. V. (2026). Talking Climate: Does Peer Anxiety Amplify or Alleviate Climate Change Worries? (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20192623 
 
 ---
 
