@@ -28,27 +28,55 @@ This research contributes to understanding how interpersonal communication shape
 
 ---
 
-## Data
+## Code / Analysis
 
-The data used in this project were collected as part of an 8-day daily diary study conducted at Brooklyn College (CUNY).
+All analyses for this project were conducted in **R**.
 
-Due to IRB restrictions, participant confidentiality, and consent procedures, the dataset is not publicly available.
+The primary script (`thesis_analysis.R`) includes:
+- Data import and cleaning (SPSS → R)
+- Descriptive statistics
+- Multilevel modeling using linear mixed-effects models (`lme4`, `lmerTest`)
+- Mediation analysis using bootstrapping (`mediation` package)
+- Moderation (interaction) analyses
+- Generation of summary statistics and outputs
 
-Researchers interested in accessing the data may contact the Principal Investigator, Dr. Cheryl L. Carmichael.
+Additional packages used include:
+- `dplyr` for data manipulation
+- `psych` for descriptive statistics
+- `emmeans` for estimated marginal means
+
+To reproduce the analysis:
+1. Obtain access to the dataset by contacting the Principal Investigator
+2. Place the dataset in the appropriate directory
+3. Run the script `thesis_analysis.R` in R
+
+Note: Because the dataset is not publicly available, full reproducibility is contingent on obtaining approved access to the data.
 
 ---
 
 ## Code / Analysis
 
-Analyses were conducted in **R** using multilevel modeling to account for daily observations nested within individuals.
+All analyses for this project were conducted in **R**.
 
-Key analytical approaches include:
-- Linear mixed-effects models (`lme4`, `lmerTest`)
-- Mediation analysis (`mediation` package)
-- Interaction/moderation analysis
-- Descriptive statistics (`psych`)
+The primary script (`thesis_analysis.R`) includes:
+- Data import and cleaning (SPSS → R)
+- Descriptive statistics
+- Multilevel modeling using linear mixed-effects models (`lme4`, `lmerTest`)
+- Mediation analysis using bootstrapping (`mediation` package)
+- Moderation (interaction) analyses
+- Generation of summary statistics and outputs
 
-The scripts in the `code/` folder reproduce all primary analyses used in the thesis.
+Additional packages used include:
+- `dplyr` for data manipulation
+- `psych` for descriptive statistics
+- `emmeans` for estimated marginal means
+
+To reproduce the analysis:
+1. Obtain access to the dataset by contacting the Principal Investigator
+2. Place the dataset in the appropriate directory
+3. Run the script `thesis_analysis.R` in R
+
+Note: Because the dataset is not publicly available, full reproducibility is contingent on obtaining approved access to the data.
 
 ---
 
