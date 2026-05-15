@@ -84,7 +84,7 @@ Note: Because the dataset is not publicly available, full reproducibility is con
 
 The full thesis can be found here:
 
-[View Thesis PDF](docs/talking_climate_thesis_tupone.pdf)
+[View Thesis PDF](docs/talking climate thesis tupone.pdf)
 
 ---
 
